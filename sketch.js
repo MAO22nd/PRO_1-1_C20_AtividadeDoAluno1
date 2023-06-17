@@ -18,7 +18,7 @@ function setup() {
   world = engine.world;
   
    var ball_options = {
-    restitution: 0.95, //quanto maior, mais leve se movimenta
+    restitution: 90, //quanto maior, mais leve se movimenta
     frictionAir:0.01 //quanto maior, mais lenta pula 
   }
 
