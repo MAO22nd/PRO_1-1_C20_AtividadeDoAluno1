@@ -23,7 +23,7 @@ function setup() {
   }
 
   var rock_options = {
-    restitution: 0.85, //quanto maior, mais leve se movimenta
+    restitution: 90, //quanto maior, mais leve se movimenta
   }
    
    var ground_options ={
